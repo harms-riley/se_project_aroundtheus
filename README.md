@@ -7,3 +7,5 @@ It features:
 - Semantic HTML
 - Responsive Design
 - Media Queries
+
+https://github.com/harms-riley/se_project_aroundtheus
