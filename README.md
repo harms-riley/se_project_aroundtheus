@@ -8,4 +8,4 @@ It features:
 - Responsive Design
 - Media Queries
 
-https://github.com/harms-riley/se_project_aroundtheus
+https://harms-riley.github.io/se_project_aroundtheus/
